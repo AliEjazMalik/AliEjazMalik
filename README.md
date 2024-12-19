@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building Flutter apps with databases and APIs.<br>👯 I’m looking to collaborate on Flutter projects with GetX or BLoC.<br>🤝 I’m looking for help with advanced API integration.<br>🌱 I’m currently learning more about state management and backend systems.<br>💬 Ask me about Flutter, Dart, GetX, or BLoC.<br>⚡ Fun fact: I Like Running/.
+🔭 I’m currently working on building Flutter apps with databases and APIs.<br>👯 I’m looking to collaborate on Flutter projects with GetX or BLoC.<br>🤝 I’m looking for help with advanced API integration.<br>🌱 I’m currently learning more about state management and backend systems.<br>💬 Ask me about Flutter, Dart, GetX, or BLoC.<br>⚡ Fun fact: I Like Running.
 
 
 ## 🌐 Socials:
